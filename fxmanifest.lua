@@ -1,0 +1,5 @@
+fx_version 'cerulean'
+game 'gta5'
+author 'benny'
+description 'script i made for 1 shot head'
+client_script 'client.lua'
